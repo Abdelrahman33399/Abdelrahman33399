@@ -1,16 +1,33 @@
-## Hi there 👋
+# Abdelrahman Ebrahem
 
-<!--
-**Abdelrahman33399/Abdelrahman33399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer specializing in production-ready educational platforms and scalable web experiences.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Front-End Development
+- EdTech Platforms
+- Dashboard Systems
+- Firebase Integration
+- API Integrations
+- Responsive Interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience includes:
+- Educational web platforms
+- Admin dashboards
+- Telegram-integrated systems
+- NDA client projects
+- Performance-focused interfaces
+
+Selected Projects:
+- Set El Kol Dashboard
+- T3lemk Platform
+- ProfileReady
+- Nexus Dashboard
+
+Technologies:
+HTML5, CSS3, JavaScript, Firebase, Firestore, Git, GitHub, Responsive Design
+
+Portfolio:
+https://portfolio-nu-nine-71.vercel.app/
+
+LinkedIn:
+www.linkedin.com/in/abdelrahman-ebrahem-1b8b69332
