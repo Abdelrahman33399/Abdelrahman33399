@@ -1,6 +1,6 @@
 <!-- HEADER BANNER WITH ROBUST ALT TEXT -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdelrahman33399/Abdelrahman33399/main/banner.png" alt="Abdelrahman Ebrahem - Professional Front-End & EdTech Developer Banner. Sleek dark-theme layout with neon-phosphor glow accents, showcasing the core developer profile and the signature slogan: The Digital Revolution. Humanized." width="100%" />
+  <img src="banner.png" alt="Abdelrahman Ebrahem - Professional Front-End & EdTech Developer Banner. Sleek dark-theme layout with neon-phosphor glow accents, showcasing the core developer profile and the signature slogan: The Digital Revolution. Humanized." width="100%" />
 </p>
 
 <h1 align="center"> Abdelrahman Ebrahem Rabie El Shafie </h1><!-- -->
