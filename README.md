@@ -1,13 +1,20 @@
-<!-- HEADER BANNER WITH ROBUST ALT TEXT -->
+<!-- DYNAMIC PUZZLE SLICE HEADER BANNER -->
 <p align="center">
-  <img src="banner.png" alt="Abdelrahman Ebrahem - Professional Front-End & EdTech Developer Banner. Sleek dark-theme layout with neon-phosphor glow accents, showcasing the core developer profile and the signature slogan: The Digital Revolution. Humanized." width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0f19,50:0052ff,100:00ffcc&height=220&section=header&text=Abdelrahman%20Ebrahem&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Puzzle Header Banner" width="100%" />
 </p>
 
-<h1 align="center"> Abdelrahman Ebrahem Rabie El Shafie </h1>
+<!-- PASSPORT CYBER TYPING EFFECT -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Principal+Digital+Architect+%26+Front-End+Engineer;EdTech+Solutions+Architect+%7C+UI%2FX+Specialist;Founder+@+ProfileReady,+Sukna+%26+OmniMart;Vice+President+@+I-CLUB+(Ain+Shams+University);McKinsey+Forward+Fellow" alt="Typing Passport Effect" />
+  </a>
+</p>
+
 <p align="center">
   <strong>"The Digital Revolution. Humanized."</strong>
 </p>
 
+<!-- VISITOR COUNTER & BADGES MATRIX -->
 <p align="center">
   <a href="https://linktr.ee/AbdelrahmanEbrahem">
     <img src="https://img.shields.io/badge/Connect-Linktree-00ffcc?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Gateway" />
@@ -166,6 +173,14 @@ My methodology bridges cognitive educational psychology with zero-latency front-
 All primary communication nodes, active social feeds, creative graphics portfolios, and project portals are integrated into a single, highly accessible gate. Let's engineer the future:
 
 👉 **[Access the Unified Linktree Gateway](https://linktr.ee/AbdelrahmanEbrahem)**
+
+---
+
+## 🎮 GitHub Contribution Snake Stream
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdelrahman33399/Abdelrahman33399/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+</p>
 
 ---
 <p align="center">
