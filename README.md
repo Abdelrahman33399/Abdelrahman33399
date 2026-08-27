@@ -1,17 +1,13 @@
-<!-- DYNAMIC PUZZLE SLICE HEADER BANNER -->
+<!-- ORIGINAL CUSTOM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0f19,50:0052ff,100:00ffcc&height=220&section=header&text=Abdelrahman%20Ebrahem&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Puzzle Header Banner" width="100%" />
+  <img src="banner.png" alt="Abdelrahman Ebrahem Banner" width="100%" />
 </p>
 
 <!-- PASSPORT CYBER TYPING EFFECT -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Principal+Digital+Architect+%26+Front-End+Engineer;EdTech+Solutions+Architect+%7C+UI%2FX+Specialist;Founder+@+ProfileReady,+Sukna+%26+OmniMart;Vice+President+@+I-CLUB+(Ain+Shams+University);McKinsey+Forward+Fellow" alt="Typing Passport Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Abdelrahman+Ebrahem;Principal+Digital+Architect+%26+Front-End+Engineer;EdTech+Solutions+Architect+%7C+UI%2FX+Specialist;Founder+@+ProfileReady,+Sukna+%26+OmniMart;Vice+President+@+I-CLUB+(Ain+Shams+University);McKinsey+Forward+Fellow" alt="Typing Passport Effect" />
   </a>
-</p>
-
-<p align="center">
-  <strong>"The Digital Revolution. Humanized."</strong>
 </p>
 
 <!-- VISITOR COUNTER & BADGES MATRIX -->
